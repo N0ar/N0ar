@@ -4,7 +4,7 @@ A data developer and previously product manager passionate about Data Science �
 pipelines, do data visualization, create interface, push it into production and improving efficiency and performance.
 
 - 🏠 I’m living close to Geneva
-- 🔭 I’m currently working on a ML/DL project with Ankorstore !
+- 🔭 I’m currently working on a Data Engineering project with Richemont !
 - 🌱 I’m currently learning more about Data engineering and Data Science every days after Le Wagon 🚂 bootcamp
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me anything about Data Science, Data Engineering, Data Analyse, Product management, Scrum, UX I will be please
